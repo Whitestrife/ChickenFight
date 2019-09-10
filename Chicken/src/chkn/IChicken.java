@@ -1,5 +1,6 @@
 package chkn;
 
+//THIS FILE IS UNNECESSARY-WAS PART OF A TEMPLATE I DID NOT USE
 public interface IChicken {
 	
 	public void move_left();
